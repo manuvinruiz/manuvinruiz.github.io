@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to Manu's Webpage
 description: This is de Manu's webpage
-header_pages:
-  - about.md
-  - portfolio.md
+show_downloads: true
